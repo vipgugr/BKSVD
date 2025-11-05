@@ -19,6 +19,10 @@ Stain variation between images is a main issue in the analysis of histological i
 Keywords: Bayesian modelling; Histological images; Blind Color Deconvolution; Stain Normalization
 
 ## Citation
+
+If you use this code in your research, please cite the original paper:
+
+```
 @article{PEREZBUENO2022102048,
 title = {Bayesian K-SVD for H and E blind color deconvolution. Applications to stain normalization, data augmentation and cancer classification},
 journal = {Computerized Medical Imaging and Graphics},
@@ -30,6 +34,7 @@ url = {https://www.sciencedirect.com/science/article/pii/S0895611122000210},
 author = {Fernando Pérez-Bueno and Juan G. Serra and Miguel Vega and Javier Mateos and Rafael Molina and Aggelos K. Katsaggelos},
 keywords = {Bayesian modelling, Histological images, Blind Color Deconvolution, Stain Normalization}
 }
+```
 
 ## Python version
 The original code of this repository/paper was developed in MATLAB. However, we are experimenting with a new Python version that can be checked here: https://github.com/zalteck/BKSVD-Python

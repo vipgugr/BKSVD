@@ -30,3 +30,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0895611122000210},
 author = {Fernando Pérez-Bueno and Juan G. Serra and Miguel Vega and Javier Mateos and Rafael Molina and Aggelos K. Katsaggelos},
 keywords = {Bayesian modelling, Histological images, Blind Color Deconvolution, Stain Normalization}
 }
+
+## Python version
+The original code of this repository/paper was developed in MATLAB. However, we are experimenting with a new Python version that can be checked here: https://github.com/zalteck/BKSVD-Python
